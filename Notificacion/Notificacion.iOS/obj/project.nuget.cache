@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gm5kRewaAL8Kj09eDXW7Zi9QzURAp1/f4GixitXWOxFMOmmgl2SjqCnrCu8Tu8p+CsbQ1Ukp43wm3V734xbHKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Escritorio\\Notificacion\\Notificacion\\Notificacion\\Notificacion.iOS\\Notificacion.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenov\\.nuget\\packages\\plugin.localnotification\\5.2.0\\plugin.localnotification.5.2.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

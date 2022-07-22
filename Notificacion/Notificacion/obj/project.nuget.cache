@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgqJnXQORoWqf9Encvrs7cfBc1foU9EQL7tOB/IqZ21nB7ctx20vtKbNIGwcE7QMS6Bs49pCMfmQY1sW6T9p6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Escritorio\\Notificacion\\Notificacion\\Notificacion\\Notificacion\\Notificacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\plugin.localnotification\\5.2.0\\plugin.localnotification.5.2.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
